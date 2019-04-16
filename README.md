@@ -1,4 +1,4 @@
 # Lista de Exercicios
-Primeira Entrega
+Segunda Entrega
 
 Henrique Franco - 81622968
