@@ -15,7 +15,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_gravity="center"
-            tools:text="Teste" />
+            tools:text="teste" />
 
     </FrameLayout>
 
@@ -29,7 +29,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_gravity="center"
-            tools:text="Teste" />
+            tools:text="teste" />
 
     </FrameLayout>
 
